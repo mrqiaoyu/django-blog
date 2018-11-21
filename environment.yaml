@@ -1,0 +1,19 @@
+name: blog
+channels:
+- https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge
+- https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/
+- https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
+- https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/
+dependencies:
+- certifi=2018.10.15=py36_1000
+- django=2.1.3=py36_1000
+- pip=18.1=py36_1000
+- python=3.6.6=he025d50_0
+- pytz=2018.7=py_0
+- setuptools=40.5.0=py36_0
+- vc=14=0
+- vs2015_runtime=14.0.25420=0
+- wheel=0.32.2=py36_0
+- wincertstore=0.2=py36_1002
+prefix: D:\environment\Anaconda3\envs\blog
+
